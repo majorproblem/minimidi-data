@@ -1137,3 +1137,34 @@ _:mvave-smc-pad device:typeB false .
 _:mvave-smc-pad device:notes "16-pad controller" .
 _:mvave-smc-pad device:uri "https://www.cuvave.com/productinfo/1106104.html" .
 _:mvave-smc-pad device:eurorack false .
+
+_:poly-effects-hector device:make "Poly Effects" .
+_:poly-effects-hector device:model "Hector" .
+_:poly-effects-hector device:inputs 1 .
+_:poly-effects-hector device:outputs 1 .
+_:poly-effects-hector device:typeA true .
+_:poly-effects-hector device:notes "Virtual modular for Eurorack"
+_:poly-effects-hector device:uri "https://polyeffects.com/polyeffects/p/hector" .
+
+_:pittsburgh-modular-taiga device:make "Pittsburgh Modular" .
+_:pittsburgh-modular-taiga device:model "Taiga" .
+_:pittsburgh-modular-taiga device:inputs 1 .
+_:pittsburgh-modular-taiga device:typeA true .
+_:pittsburgh-modular-taiga device:notes "Three oscillator dynamic synthesizer"
+_:pittsburgh-modular-taiga device:uri "https://pittsburghmodular.com/taiga" .
+
+-:endorphin-es-ground-control device:make "Endorphin.es" .
+-:endorphin-es-ground-control device:model "Ground Control" .
+-:endorphin-es-ground-control device:inputs 1 .
+-:endorphin-es-ground-control device:outputs 1 .
+-:endorphin-es-ground-control device:typeB true .
+-:endorphin-es-ground-control device:notes "Performance Eurorack sequencer"
+-:endorphin-es-ground-control device:uri "https://www.endorphin.es/modules/p/ground-control" .
+
+_:oxi-instruments-oxi-coral device:make "OXI Instruments" .
+_:oxi-instruments-oxi-coral device:model "OXI Coral" .
+_:oxi-instruments-oxi-coral device:inputs 1 .
+_:oxi-instruments-oxi-coral device:typeA true .
+_:oxi-instruments-oxi-coral device:typeB true .
+_:oxi-instruments-oxi-coral device:notes "Polyphonic Eurorack oscillator" .
+_:oxi-instruments-oxi-coral device:uri "https://oxiinstruments.com/oxi-coral" .
